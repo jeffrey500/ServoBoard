@@ -1,5 +1,6 @@
 # ServoBoard V2.1
-<img src="media/board.png" width="50%" alt="ServoBoard Schematic"> 
+<img src="media/board.png" width="100%" alt="board pcb">  
+<img src="media/ServoBoard_pic.jpg" width="99.8%" alt="ServoBoard_pic">
 
 ## Introduction
 This project contains a 2 layer PCB that has the designed purpose of driving up to 4 PWM servo motors of variable input voltage, with the entire board itself being powered by a variable voltage.  
@@ -50,13 +51,13 @@ To do this, it is recommended to use any Arduino in addition to its ability to b
 <img src="media/schematic.png" width="75%" alt="ServoBoard Schematic">
 
 ### Board Without Pours
-<img src="media/board_without_pours.png" width="75%" alt="ServoBoard Schematic">
+<img src="media/board_without_pours.png" width="75%" alt="board_without_pours">
 
 ### Top Copper
-<img src="media/top_copper.png" width="75%" alt="ServoBoard Schematic">
+<img src="media/top_copper.png" width="75%" alt="top_copper">
 
 ### Bottom Copper
-<img src="media/bottom_copper.png" width="75%" alt="ServoBoard Schematic">
+<img src="media/bottom_copper.png" width="75%" alt="bottom_copper">
 
 ## Application
 The design application of this board is within a CNC White board plotter //add link for which this board controls a pen plotter that is controlled by an Ardunio CNC Shield, interfacing through an optocoupler.
